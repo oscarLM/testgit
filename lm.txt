@@ -1,5 +1,0 @@
-hello world!
-haha...
-
-This is test diff command.
-# test line
